@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
         }
     }
 
-    a.setWindowIcon(QIcon("/Users/why/Project/Calculate/icon.ico"));
+    a.setWindowIcon(QIcon("/Users/why/Project/CalculateQT/icon.ico"));
 
     Widget w;
     w.show();
