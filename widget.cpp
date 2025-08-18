@@ -10,7 +10,7 @@ Widget::Widget(QWidget *parent)
 
     this->setWindowTitle("计算器");
 
-    QIcon icon("/Users/why/Project/Calculate/left.png");
+    QIcon icon("/Users/why/Project/CalculateQT/left.png");
     ui->deleteButton->setIcon(icon);
 
     ui->equalButton->setStyleSheet("background-color:rgb(73,92,152)");
